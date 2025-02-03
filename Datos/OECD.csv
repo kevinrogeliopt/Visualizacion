@@ -1,0 +1,1246 @@
+PAIS,SEXO,AÑO,OBS_VALUE,OECD
+Australia,Female,2020,85.3,NO
+Australia,Female,2019,85,NO
+Australia,Female,2018,84.9,NO
+Australia,Total,2019,82.9,NO
+Australia,Total,2018,82.7,NO
+Australia,Total,2017,82.5,NO
+Australia,Total,2016,82.4,NO
+Australia,Total,2015,82.4,NO
+Australia,Female,2017,84.6,NO
+Australia,Female,2016,84.6,NO
+Australia,Female,2015,84.5,NO
+Australia,Male,2022,81.2,NO
+Australia,Male,2021,81.3,NO
+Australia,Male,2020,81.2,NO
+Australia,Male,2019,80.9,NO
+Australia,Male,2018,80.7,NO
+Australia,Male,2017,80.5,NO
+Australia,Male,2016,80.4,NO
+Australia,Male,2015,80.4,NO
+Australia,Total,2022,83.2,NO
+Australia,Total,2021,83.3,NO
+Australia,Total,2020,83.2,NO
+Australia,Female,2022,85.3,NO
+Austria,Male,2018,79.4,NO
+Austria,Male,2017,79.4,NO
+Austria,Male,2016,79.3,NO
+Austria,Female,2019,84.2,NO
+Austria,Female,2018,84.1,NO
+Austria,Female,2017,84,NO
+Austria,Female,2016,84.1,NO
+Austria,Female,2015,83.7,NO
+Austria,Male,2015,78.8,NO
+Austria,Total,2023,81.6,NO
+Austria,Total,2022,81.4,NO
+Austria,Total,2021,81.3,NO
+Austria,Total,2020,81.3,NO
+Austria,Total,2019,82,NO
+Austria,Total,2018,81.8,NO
+Austria,Total,2017,81.7,NO
+Austria,Total,2016,81.8,NO
+Austria,Total,2015,81.3,NO
+Austria,Female,2023,84,NO
+Austria,Female,2022,83.6,NO
+Austria,Female,2021,83.7,NO
+Austria,Female,2020,83.6,NO
+Austria,Male,2023,79.2,NO
+Austria,Male,2022,79.1,NO
+Austria,Male,2021,78.8,NO
+Austria,Male,2020,78.9,NO
+Belgium,Female,2018,83.9,NO
+Belgium,Female,2017,83.9,NO
+Belgium,Female,2016,84,NO
+Belgium,Total,2019,82.1,NO
+Belgium,Total,2018,81.7,NO
+Belgium,Total,2017,81.6,NO
+Belgium,Total,2016,81.5,NO
+Belgium,Total,2015,81.1,NO
+Belgium,Female,2015,83.4,NO
+Belgium,Male,2023,80.3,NO
+Belgium,Male,2022,79.7,NO
+Belgium,Male,2021,79.4,NO
+Belgium,Male,2020,78.5,NO
+Belgium,Male,2019,79.8,NO
+Belgium,Male,2018,79.4,NO
+Belgium,Male,2017,79.2,NO
+Belgium,Male,2016,79,NO
+Belgium,Male,2015,78.7,NO
+Belgium,Total,2023,82.5,NO
+Belgium,Total,2022,81.8,NO
+Belgium,Total,2021,81.9,NO
+Belgium,Total,2020,80.8,NO
+Belgium,Female,2023,84.6,NO
+Belgium,Female,2022,83.9,NO
+Belgium,Female,2021,84.3,NO
+Belgium,Female,2020,83,NO
+Canada,Total,2020,81.7,NO
+Canada,Female,2021,84,NO
+Canada,Female,2020,84,NO
+Canada,Total,2019,82.3,NO
+Canada,Total,2018,81.9,NO
+Canada,Total,2017,81.9,NO
+Canada,Total,2016,82,NO
+Canada,Total,2015,81.9,NO
+Canada,Female,2019,84.4,NO
+Canada,Female,2018,84,NO
+Canada,Female,2017,84,NO
+Canada,Female,2016,84,NO
+Canada,Female,2015,83.9,NO
+Canada,Male,2021,79.3,NO
+Canada,Male,2020,79.5,NO
+Canada,Male,2019,80.2,NO
+Canada,Male,2018,79.8,NO
+Canada,Male,2017,79.8,NO
+Canada,Male,2016,79.9,NO
+Canada,Male,2015,79.9,NO
+Chile,Female,2018,83.2,NO
+Chile,Female,2017,83,NO
+Chile,Female,2016,82.9,NO
+Chile,Male,2019,77.9,NO
+Chile,Male,2018,77.7,NO
+Chile,Male,2017,77.4,NO
+Chile,Male,2016,77.2,NO
+Chile,Male,2015,77,NO
+Chile,Female,2015,82.7,NO
+Chile,Total,2023,81.4,NO
+Chile,Total,2022,81.2,NO
+Chile,Total,2021,81,NO
+Chile,Total,2020,80.8,NO
+Chile,Total,2019,80.6,NO
+Chile,Total,2018,80.4,NO
+Chile,Total,2017,80.2,NO
+Chile,Total,2016,80,NO
+Chile,Total,2015,79.8,NO
+Chile,Male,2023,78.7,NO
+Chile,Male,2022,78.5,NO
+Chile,Male,2021,78.3,NO
+Chile,Male,2020,78.1,NO
+Chile,Female,2023,84.1,NO
+Chile,Female,2022,84,NO
+Chile,Female,2021,83.8,NO
+Chile,Female,2020,83.6,NO
+Colombia,Total,2020,76.7,NO
+Colombia,Total,2019,76.6,NO
+Colombia,Total,2018,76.5,NO
+Colombia,Male,2019,73.5,NO
+Colombia,Male,2018,73.3,NO
+Colombia,Male,2017,72.7,NO
+Colombia,Male,2016,72.5,NO
+Colombia,Male,2015,72.2,NO
+Colombia,Total,2017,75.9,NO
+Colombia,Total,2016,75.7,NO
+Colombia,Total,2015,75.4,NO
+Colombia,Female,2022,80.1,NO
+Colombia,Female,2021,80,NO
+Colombia,Female,2020,80,NO
+Colombia,Female,2019,79.9,NO
+Colombia,Female,2018,79.8,NO
+Colombia,Female,2017,79.3,NO
+Colombia,Female,2016,79.1,NO
+Colombia,Female,2015,78.9,NO
+Colombia,Male,2022,73.8,NO
+Colombia,Male,2021,73.7,NO
+Colombia,Male,2020,73.6,NO
+Colombia,Total,2022,76.9,NO
+Costa Rica,Female,2018,82.9,NO
+Costa Rica,Female,2017,82.7,NO
+Costa Rica,Female,2016,82.6,NO
+Costa Rica,Total,2019,80.5,NO
+Costa Rica,Total,2018,80.3,NO
+Costa Rica,Total,2017,80.2,NO
+Costa Rica,Total,2016,80,NO
+Costa Rica,Total,2015,79.9,NO
+Costa Rica,Female,2015,82.4,NO
+Costa Rica,Male,2023,78.4,NO
+Costa Rica,Male,2022,78.3,NO
+Costa Rica,Male,2021,78.2,NO
+Costa Rica,Male,2020,78.1,NO
+Costa Rica,Male,2019,77.9,NO
+Costa Rica,Male,2018,77.8,NO
+Costa Rica,Male,2017,77.6,NO
+Costa Rica,Male,2016,77.5,NO
+Costa Rica,Male,2015,77.4,NO
+Costa Rica,Total,2023,81,NO
+Costa Rica,Total,2022,80.9,NO
+Costa Rica,Total,2021,80.8,NO
+Costa Rica,Total,2020,80.6,NO
+Costa Rica,Female,2023,83.6,NO
+Costa Rica,Female,2022,83.5,NO
+Costa Rica,Female,2021,83.3,NO
+Costa Rica,Female,2020,83.2,NO
+Czechia,Female,2018,82,NO
+Czechia,Female,2017,82,NO
+Czechia,Female,2016,82.1,NO
+Czechia,Male,2019,76.4,NO
+Czechia,Male,2018,76.2,NO
+Czechia,Male,2017,76.1,NO
+Czechia,Male,2016,76.1,NO
+Czechia,Male,2015,75.7,NO
+Czechia,Female,2015,81.6,NO
+Czechia,Total,2023,80,NO
+Czechia,Total,2022,79,NO
+Czechia,Total,2021,77.2,NO
+Czechia,Total,2020,78.2,NO
+Czechia,Total,2019,79.3,NO
+Czechia,Total,2018,79.1,NO
+Czechia,Total,2017,79.1,NO
+Czechia,Total,2016,79.1,NO
+Czechia,Total,2015,78.7,NO
+Czechia,Male,2023,77,NO
+Czechia,Male,2022,76.1,NO
+Czechia,Male,2021,74.1,NO
+Czechia,Male,2020,75.2,NO
+Czechia,Female,2023,82.9,NO
+Czechia,Female,2022,81.9,NO
+Czechia,Female,2021,80.5,NO
+Czechia,Female,2020,81.3,NO
+Denmark,Female,2018,82.9,NO
+Denmark,Female,2017,83.1,NO
+Denmark,Female,2016,82.8,NO
+Denmark,Male,2019,79.5,NO
+Denmark,Male,2018,79.1,NO
+Denmark,Male,2017,79.2,NO
+Denmark,Male,2016,79,NO
+Denmark,Male,2015,78.8,NO
+Denmark,Female,2015,82.7,NO
+Denmark,Total,2023,81.9,NO
+Denmark,Total,2022,81.3,NO
+Denmark,Total,2021,81.5,NO
+Denmark,Total,2020,81.6,NO
+Denmark,Total,2019,81.5,NO
+Denmark,Total,2018,81,NO
+Denmark,Total,2017,81.1,NO
+Denmark,Total,2016,80.9,NO
+Denmark,Total,2015,80.8,NO
+Denmark,Male,2023,80,NO
+Denmark,Male,2022,79.5,NO
+Denmark,Male,2021,79.6,NO
+Denmark,Male,2020,79.7,NO
+Denmark,Female,2023,83.8,NO
+Denmark,Female,2022,83.2,NO
+Denmark,Female,2021,83.3,NO
+Denmark,Female,2020,83.6,NO
+Estonia,Male,2018,74,NO
+Estonia,Male,2017,73.8,NO
+Estonia,Male,2016,73.3,NO
+Estonia,Total,2019,79,NO
+Estonia,Total,2018,78.5,NO
+Estonia,Total,2017,78.4,NO
+Estonia,Total,2016,78,NO
+Estonia,Total,2015,78,NO
+Estonia,Male,2015,73.2,NO
+Estonia,Female,2023,83.1,NO
+Estonia,Female,2022,82.3,NO
+Estonia,Female,2021,81.4,NO
+Estonia,Female,2020,83,NO
+Estonia,Female,2019,83,NO
+Estonia,Female,2018,82.7,NO
+Estonia,Female,2017,82.6,NO
+Estonia,Female,2016,82.2,NO
+Estonia,Female,2015,82.2,NO
+Estonia,Total,2023,78.8,NO
+Estonia,Total,2022,78.1,NO
+Estonia,Total,2021,77.2,NO
+Estonia,Total,2020,78.9,NO
+Estonia,Male,2023,74.1,NO
+Estonia,Male,2022,73.6,NO
+Estonia,Male,2021,72.7,NO
+Estonia,Male,2020,74.4,NO
+Finland,Male,2018,79.1,NO
+Finland,Male,2017,78.9,NO
+Finland,Male,2016,78.6,NO
+Finland,Female,2019,84.8,NO
+Finland,Female,2018,84.5,NO
+Finland,Female,2017,84.5,NO
+Finland,Female,2016,84.4,NO
+Finland,Female,2015,84.4,NO
+Finland,Male,2015,78.7,NO
+Finland,Total,2023,81.7,NO
+Finland,Total,2022,81.2,NO
+Finland,Total,2021,81.9,NO
+Finland,Total,2020,82,NO
+Finland,Total,2019,82.1,NO
+Finland,Total,2018,81.8,NO
+Finland,Total,2017,81.7,NO
+Finland,Total,2016,81.5,NO
+Finland,Total,2015,81.6,NO
+Finland,Female,2023,84.4,NO
+Finland,Female,2022,83.8,NO
+Finland,Female,2021,84.6,NO
+Finland,Female,2020,84.8,NO
+Finland,Male,2023,79.1,NO
+Finland,Male,2022,78.7,NO
+Finland,Male,2021,79.3,NO
+Finland,Male,2020,79.2,NO
+France,Male,2018,79.7,NO
+France,Male,2017,79.6,NO
+France,Male,2016,79.5,NO
+France,Total,2019,83,NO
+France,Total,2018,82.8,NO
+France,Total,2017,82.7,NO
+France,Total,2016,82.7,NO
+France,Total,2015,82.4,NO
+France,Male,2015,79.2,NO
+France,Female,2023,85.9,NO
+France,Female,2022,85.1,NO
+France,Female,2021,85.5,NO
+France,Female,2020,85.3,NO
+France,Female,2019,85.9,NO
+France,Female,2018,85.8,NO
+France,Female,2017,85.7,NO
+France,Female,2016,85.8,NO
+France,Female,2015,85.6,NO
+France,Total,2023,83.1,NO
+France,Total,2022,82.3,NO
+France,Total,2021,82.4,NO
+France,Total,2020,82.3,NO
+France,Male,2023,80.1,NO
+France,Male,2022,79.3,NO
+France,Male,2021,79.3,NO
+France,Male,2020,79.2,NO
+Germany,Male,2020,78.7,NO
+Germany,Male,2019,79,NO
+Germany,Male,2018,78.6,NO
+Germany,Female,2019,83.7,NO
+Germany,Female,2018,83.3,NO
+Germany,Female,2017,83.4,NO
+Germany,Female,2016,83.5,NO
+Germany,Female,2015,83.1,NO
+Germany,Male,2017,78.7,NO
+Germany,Male,2016,78.6,NO
+Germany,Male,2015,78.3,NO
+Germany,Total,2022,80.7,NO
+Germany,Total,2021,80.8,NO
+Germany,Total,2020,81.1,NO
+Germany,Total,2019,81.3,NO
+Germany,Total,2018,81,NO
+Germany,Total,2017,81.1,NO
+Germany,Total,2016,81,NO
+Germany,Total,2015,80.7,NO
+Germany,Female,2022,83,NO
+Germany,Female,2021,83.3,NO
+Germany,Female,2020,83.5,NO
+Germany,Male,2022,78.3,NO
+Greece,Female,2018,84.4,NO
+Greece,Female,2017,83.9,NO
+Greece,Female,2016,84,NO
+Greece,Total,2019,81.7,NO
+Greece,Total,2018,81.9,NO
+Greece,Total,2017,81.4,NO
+Greece,Total,2016,81.5,NO
+Greece,Total,2015,81.1,NO
+Greece,Female,2015,83.7,NO
+Greece,Male,2023,79,NO
+Greece,Male,2022,78.3,NO
+Greece,Male,2021,77.4,NO
+Greece,Male,2020,78.8,NO
+Greece,Male,2019,79.2,NO
+Greece,Male,2018,79.3,NO
+Greece,Male,2017,78.8,NO
+Greece,Male,2016,78.9,NO
+Greece,Male,2015,78.5,NO
+Greece,Total,2023,81.6,NO
+Greece,Total,2022,80.8,NO
+Greece,Total,2021,80.2,NO
+Greece,Total,2020,81.4,NO
+Greece,Female,2023,84.2,NO
+Greece,Female,2022,83.4,NO
+Greece,Female,2021,82.9,NO
+Greece,Female,2020,83.9,NO
+Hungary,Male,2018,72.7,NO
+Hungary,Male,2017,72.5,NO
+Hungary,Male,2016,72.6,NO
+Hungary,Female,2019,79.7,NO
+Hungary,Female,2018,79.6,NO
+Hungary,Female,2017,79.3,NO
+Hungary,Female,2016,79.7,NO
+Hungary,Female,2015,79,NO
+Hungary,Male,2015,72.3,NO
+Hungary,Total,2023,76.9,NO
+Hungary,Total,2022,76,NO
+Hungary,Total,2021,74.3,NO
+Hungary,Total,2020,75.7,NO
+Hungary,Total,2019,76.5,NO
+Hungary,Total,2018,76.2,NO
+Hungary,Total,2017,76,NO
+Hungary,Total,2016,76.2,NO
+Hungary,Total,2015,75.7,NO
+Hungary,Female,2023,80.1,NO
+Hungary,Female,2022,79.3,NO
+Hungary,Female,2021,77.8,NO
+Hungary,Female,2020,79,NO
+Hungary,Male,2023,73.6,NO
+Hungary,Male,2022,72.6,NO
+Hungary,Male,2021,70.7,NO
+Hungary,Male,2020,72.3,NO
+Iceland,Male,2018,81.3,NO
+Iceland,Male,2017,81.1,NO
+Iceland,Male,2016,80.4,NO
+Iceland,Female,2019,84.7,NO
+Iceland,Female,2018,84.5,NO
+Iceland,Female,2017,84.3,NO
+Iceland,Female,2016,84.1,NO
+Iceland,Female,2015,83.8,NO
+Iceland,Male,2015,81.2,NO
+Iceland,Total,2023,82.6,NO
+Iceland,Total,2022,82.1,NO
+Iceland,Total,2021,83.2,NO
+Iceland,Total,2020,83.1,NO
+Iceland,Total,2019,83.2,NO
+Iceland,Total,2018,82.9,NO
+Iceland,Total,2017,82.6,NO
+Iceland,Total,2016,82.2,NO
+Iceland,Total,2015,82.5,NO
+Iceland,Female,2023,84.4,NO
+Iceland,Female,2022,83.4,NO
+Iceland,Female,2021,84.6,NO
+Iceland,Female,2020,84.6,NO
+Iceland,Male,2023,80.9,NO
+Iceland,Male,2022,80.9,NO
+Iceland,Male,2021,81.8,NO
+Iceland,Male,2020,81.6,NO
+Ireland,Female,2020,84.4,NO
+Ireland,Female,2019,84.7,NO
+Ireland,Female,2018,84.1,NO
+Ireland,Male,2019,80.8,NO
+Ireland,Male,2018,80.4,NO
+Ireland,Male,2017,80.4,NO
+Ireland,Male,2016,79.8,NO
+Ireland,Male,2015,79.6,NO
+Ireland,Female,2017,84,NO
+Ireland,Female,2016,83.6,NO
+Ireland,Female,2015,83.4,NO
+Ireland,Total,2022,82.6,NO
+Ireland,Total,2021,82.4,NO
+Ireland,Total,2020,82.6,NO
+Ireland,Total,2019,82.8,NO
+Ireland,Total,2018,82.2,NO
+Ireland,Total,2017,82.2,NO
+Ireland,Total,2016,81.7,NO
+Ireland,Total,2015,81.5,NO
+Ireland,Male,2022,80.9,NO
+Ireland,Male,2021,80.5,NO
+Ireland,Male,2020,80.8,NO
+Ireland,Female,2022,84.2,NO
+Israel,Male,2020,80.6,NO
+Israel,Male,2019,81,NO
+Israel,Male,2018,80.9,NO
+Israel,Total,2019,82.9,NO
+Israel,Total,2018,82.9,NO
+Israel,Total,2017,82.7,NO
+Israel,Total,2016,82.5,NO
+Israel,Total,2015,82.2,NO
+Israel,Male,2017,80.6,NO
+Israel,Male,2016,80.7,NO
+Israel,Male,2015,80.1,NO
+Israel,Female,2022,84.8,NO
+Israel,Female,2021,84.6,NO
+Israel,Female,2020,84.8,NO
+Israel,Female,2019,84.7,NO
+Israel,Female,2018,84.8,NO
+Israel,Female,2017,84.6,NO
+Israel,Female,2016,84.2,NO
+Israel,Female,2015,84.1,NO
+Israel,Total,2022,82.8,NO
+Israel,Total,2021,82.6,NO
+Israel,Total,2020,82.7,NO
+Israel,Male,2022,80.7,NO
+Italy,Male,2018,81.2,NO
+Italy,Male,2017,80.8,NO
+Italy,Male,2016,81,NO
+Italy,Female,2019,85.7,NO
+Italy,Female,2018,85.6,NO
+Italy,Female,2017,85.2,NO
+Italy,Female,2016,85.6,NO
+Italy,Female,2015,84.9,NO
+Italy,Male,2015,80.3,NO
+Italy,Total,2023,83.8,NO
+Italy,Total,2022,82.8,NO
+Italy,Total,2021,82.7,NO
+Italy,Total,2020,82.3,NO
+Italy,Total,2019,83.6,NO
+Italy,Total,2018,83.4,NO
+Italy,Total,2017,83.1,NO
+Italy,Total,2016,83.4,NO
+Italy,Total,2015,82.7,NO
+Italy,Female,2023,85.8,NO
+Italy,Female,2022,84.8,NO
+Italy,Female,2021,84.9,NO
+Italy,Female,2020,84.5,NO
+Italy,Male,2023,81.7,NO
+Italy,Male,2022,80.7,NO
+Italy,Male,2021,80.5,NO
+Italy,Male,2020,80,NO
+Japan,Total,2020,84.6,NO
+Japan,Total,2019,84.4,NO
+Japan,Total,2018,84.3,NO
+Japan,Male,2019,81.4,NO
+Japan,Male,2018,81.3,NO
+Japan,Male,2017,81.1,NO
+Japan,Male,2016,81,NO
+Japan,Male,2015,80.8,NO
+Japan,Total,2017,84.2,NO
+Japan,Total,2016,84.1,NO
+Japan,Total,2015,83.9,NO
+Japan,Female,2022,87.1,NO
+Japan,Female,2021,87.6,NO
+Japan,Female,2020,87.7,NO
+Japan,Female,2019,87.4,NO
+Japan,Female,2018,87.3,NO
+Japan,Female,2017,87.3,NO
+Japan,Female,2016,87.1,NO
+Japan,Female,2015,87,NO
+Japan,Male,2022,81.1,NO
+Japan,Male,2021,81.5,NO
+Japan,Male,2020,81.6,NO
+Japan,Total,2022,84.1,NO
+Korea,Female,2020,86.5,NO
+Korea,Female,2019,86.3,NO
+Korea,Female,2018,85.7,NO
+Korea,Total,2019,83.3,NO
+Korea,Total,2018,82.7,NO
+Korea,Total,2017,82.7,NO
+Korea,Total,2016,82.4,NO
+Korea,Total,2015,82.1,NO
+Korea,Female,2017,85.7,NO
+Korea,Female,2016,85.4,NO
+Korea,Female,2015,85.2,NO
+Korea,Male,2022,79.9,NO
+Korea,Male,2021,80.6,NO
+Korea,Male,2020,80.5,NO
+Korea,Male,2019,80.3,NO
+Korea,Male,2018,79.7,NO
+Korea,Male,2017,79.7,NO
+Korea,Male,2016,79.3,NO
+Korea,Male,2015,79,NO
+Korea,Total,2022,82.7,NO
+Korea,Total,2021,83.6,NO
+Korea,Total,2020,83.5,NO
+Korea,Female,2022,85.6,NO
+Latvia,Female,2018,79.7,NO
+Latvia,Female,2017,79.7,NO
+Latvia,Female,2016,79.6,NO
+Latvia,Total,2019,75.7,NO
+Latvia,Total,2018,75.1,NO
+Latvia,Total,2017,74.9,NO
+Latvia,Total,2016,74.9,NO
+Latvia,Total,2015,74.8,NO
+Latvia,Female,2015,79.5,NO
+Latvia,Male,2023,70.8,NO
+Latvia,Male,2022,69.4,NO
+Latvia,Male,2021,68.2,NO
+Latvia,Male,2020,70.6,NO
+Latvia,Male,2019,70.9,NO
+Latvia,Male,2018,70.1,NO
+Latvia,Male,2017,69.8,NO
+Latvia,Male,2016,69.8,NO
+Latvia,Male,2015,69.7,NO
+Latvia,Total,2023,75.9,NO
+Latvia,Total,2022,74.5,NO
+Latvia,Total,2021,73.1,NO
+Latvia,Total,2020,75.5,NO
+Latvia,Female,2023,80.8,NO
+Latvia,Female,2022,79.4,NO
+Latvia,Female,2021,78,NO
+Latvia,Female,2020,80,NO
+Lithuania,Male,2018,70.9,NO
+Lithuania,Male,2017,70.7,NO
+Lithuania,Male,2016,69.5,NO
+Lithuania,Female,2019,81.2,NO
+Lithuania,Female,2018,80.7,NO
+Lithuania,Female,2017,80.5,NO
+Lithuania,Female,2016,80.1,NO
+Lithuania,Female,2015,79.7,NO
+Lithuania,Male,2015,69.2,NO
+Lithuania,Total,2023,77.3,NO
+Lithuania,Total,2022,75.8,NO
+Lithuania,Total,2021,74.2,NO
+Lithuania,Total,2020,75.1,NO
+Lithuania,Total,2019,76.5,NO
+Lithuania,Total,2018,76,NO
+Lithuania,Total,2017,75.8,NO
+Lithuania,Total,2016,74.9,NO
+Lithuania,Total,2015,74.6,NO
+Lithuania,Female,2023,81.7,NO
+Lithuania,Female,2022,80.1,NO
+Lithuania,Female,2021,78.8,NO
+Lithuania,Female,2020,80.1,NO
+Lithuania,Male,2023,72.5,NO
+Lithuania,Male,2022,71.4,NO
+Lithuania,Male,2021,69.5,NO
+Lithuania,Male,2020,70.1,NO
+Luxembourg,Male,2018,80.1,NO
+Luxembourg,Male,2017,79.9,NO
+Luxembourg,Male,2016,80.1,NO
+Luxembourg,Total,2019,82.7,NO
+Luxembourg,Total,2018,82.3,NO
+Luxembourg,Total,2017,82.1,NO
+Luxembourg,Total,2016,82.7,NO
+Luxembourg,Total,2015,82.4,NO
+Luxembourg,Male,2015,80,NO
+Luxembourg,Female,2023,85.1,NO
+Luxembourg,Female,2022,85.2,NO
+Luxembourg,Female,2021,84.8,NO
+Luxembourg,Female,2020,84.5,NO
+Luxembourg,Female,2019,85.2,NO
+Luxembourg,Female,2018,84.6,NO
+Luxembourg,Female,2017,84.4,NO
+Luxembourg,Female,2016,85.4,NO
+Luxembourg,Female,2015,84.7,NO
+Luxembourg,Total,2023,83.4,NO
+Luxembourg,Total,2022,83,NO
+Luxembourg,Total,2021,82.7,NO
+Luxembourg,Total,2020,82.2,NO
+Luxembourg,Male,2023,81.7,NO
+Luxembourg,Male,2022,80.8,NO
+Luxembourg,Male,2021,80.5,NO
+Luxembourg,Male,2020,79.9,NO
+Mexico,Male,2018,71.8,NO
+Mexico,Male,2017,72,NO
+Mexico,Male,2016,72,NO
+Mexico,Female,2019,78,NO
+Mexico,Female,2018,78,NO
+Mexico,Female,2017,77.9,NO
+Mexico,Female,2016,77.7,NO
+Mexico,Female,2015,77.8,NO
+Mexico,Male,2015,72.4,NO
+Mexico,Total,2023,75.3,NO
+Mexico,Total,2022,75.2,NO
+Mexico,Total,2021,68.8,NO
+Mexico,Total,2020,68.9,NO
+Mexico,Total,2019,74.8,NO
+Mexico,Total,2018,74.9,NO
+Mexico,Total,2017,74.8,NO
+Mexico,Total,2016,74.8,NO
+Mexico,Total,2015,75.1,NO
+Mexico,Female,2023,78.6,NO
+Mexico,Female,2022,78.5,NO
+Mexico,Female,2021,73.1,NO
+Mexico,Female,2020,73.5,NO
+Mexico,Male,2023,72.3,NO
+Mexico,Male,2022,72.1,NO
+Mexico,Male,2021,64.9,NO
+Mexico,Male,2020,64.9,NO
+Netherlands,Male,2018,80.3,NO
+Netherlands,Male,2017,80.2,NO
+Netherlands,Male,2016,80,NO
+Netherlands,Total,2019,82.2,NO
+Netherlands,Total,2018,81.9,NO
+Netherlands,Total,2017,81.8,NO
+Netherlands,Total,2016,81.7,NO
+Netherlands,Total,2015,81.6,NO
+Netherlands,Male,2015,79.9,NO
+Netherlands,Female,2023,83.4,NO
+Netherlands,Female,2022,83.1,NO
+Netherlands,Female,2021,83,NO
+Netherlands,Female,2020,83.1,NO
+Netherlands,Female,2019,83.7,NO
+Netherlands,Female,2018,83.4,NO
+Netherlands,Female,2017,83.4,NO
+Netherlands,Female,2016,83.2,NO
+Netherlands,Female,2015,83.2,NO
+Netherlands,Total,2023,82,NO
+Netherlands,Total,2022,81.7,NO
+Netherlands,Total,2021,81.4,NO
+Netherlands,Total,2020,81.4,NO
+Netherlands,Male,2023,80.5,NO
+Netherlands,Male,2022,80.2,NO
+Netherlands,Male,2021,79.7,NO
+Netherlands,Male,2020,79.7,NO
+New Zealand,Total,2020,82.3,NO
+New Zealand,Total,2019,82.1,NO
+New Zealand,Total,2018,81.7,NO
+New Zealand,Female,2019,83.9,NO
+New Zealand,Female,2018,83.5,NO
+New Zealand,Female,2017,83.4,NO
+New Zealand,Female,2016,83.4,NO
+New Zealand,Female,2015,83.3,NO
+New Zealand,Total,2017,81.7,NO
+New Zealand,Total,2016,81.6,NO
+New Zealand,Total,2015,81.5,NO
+New Zealand,Male,2022,80.3,NO
+New Zealand,Male,2021,80.5,NO
+New Zealand,Male,2020,80.5,NO
+New Zealand,Male,2019,80.3,NO
+New Zealand,Male,2018,80,NO
+New Zealand,Male,2017,79.9,NO
+New Zealand,Male,2016,79.8,NO
+New Zealand,Male,2015,79.7,NO
+New Zealand,Female,2022,83.7,NO
+New Zealand,Female,2021,84,NO
+New Zealand,Female,2020,84.1,NO
+New Zealand,Total,2022,82,NO
+Norway,Total,2020,83.3,NO
+Norway,Total,2019,83,NO
+Norway,Total,2018,82.8,NO
+Norway,Male,2019,81.3,NO
+Norway,Male,2018,81.1,NO
+Norway,Male,2017,81,NO
+Norway,Male,2016,80.7,NO
+Norway,Male,2015,80.5,NO
+Norway,Total,2017,82.7,NO
+Norway,Total,2016,82.5,NO
+Norway,Total,2015,82.4,NO
+Norway,Female,2022,84.2,NO
+Norway,Female,2021,84.7,NO
+Norway,Female,2020,84.9,NO
+Norway,Female,2019,84.7,NO
+Norway,Female,2018,84.5,NO
+Norway,Female,2017,84.3,NO
+Norway,Female,2016,84.2,NO
+Norway,Female,2015,84.2,NO
+Norway,Male,2022,81,NO
+Norway,Male,2021,81.7,NO
+Norway,Male,2020,81.6,NO
+Norway,Total,2022,82.6,NO
+Poland,Female,2018,81.7,NO
+Poland,Female,2017,81.8,NO
+Poland,Female,2016,82,NO
+Poland,Male,2019,74.1,NO
+Poland,Male,2018,73.7,NO
+Poland,Male,2017,73.9,NO
+Poland,Male,2016,73.9,NO
+Poland,Male,2015,73.5,NO
+Poland,Female,2015,81.6,NO
+Poland,Total,2023,78.6,NO
+Poland,Total,2022,77.2,NO
+Poland,Total,2021,75.4,NO
+Poland,Total,2020,76.4,NO
+Poland,Total,2019,78,NO
+Poland,Total,2018,77.7,NO
+Poland,Total,2017,77.8,NO
+Poland,Total,2016,78,NO
+Poland,Total,2015,77.5,NO
+Poland,Male,2023,74.8,NO
+Poland,Male,2022,73.4,NO
+Poland,Male,2021,71.4,NO
+Poland,Male,2020,72.4,NO
+Poland,Female,2023,82.4,NO
+Poland,Female,2022,81.1,NO
+Poland,Female,2021,79.5,NO
+Poland,Female,2020,80.6,NO
+Portugal,Male,2018,78.3,NO
+Portugal,Male,2017,78.4,NO
+Portugal,Male,2016,78.1,NO
+Portugal,Total,2019,81.9,NO
+Portugal,Total,2018,81.5,NO
+Portugal,Total,2017,81.6,NO
+Portugal,Total,2016,81.3,NO
+Portugal,Total,2015,81.3,NO
+Portugal,Male,2015,78.1,NO
+Portugal,Female,2023,85.2,NO
+Portugal,Female,2022,84.5,NO
+Portugal,Female,2021,84.4,NO
+Portugal,Female,2020,84.1,NO
+Portugal,Female,2019,84.8,NO
+Portugal,Female,2018,84.5,NO
+Portugal,Female,2017,84.6,NO
+Portugal,Female,2016,84.3,NO
+Portugal,Female,2015,84.3,NO
+Portugal,Total,2023,82.4,NO
+Portugal,Total,2022,81.8,NO
+Portugal,Total,2021,81.5,NO
+Portugal,Total,2020,81.1,NO
+Portugal,Male,2023,79.5,NO
+Portugal,Male,2022,78.9,NO
+Portugal,Male,2021,78.5,NO
+Portugal,Male,2020,78,NO
+Slovak Republic,Total,2018,77.4,NO
+Slovak Republic,Total,2017,77.3,NO
+Slovak Republic,Total,2016,77.3,NO
+Slovak Republic,Female,2019,81.2,NO
+Slovak Republic,Female,2018,80.8,NO
+Slovak Republic,Female,2017,80.7,NO
+Slovak Republic,Female,2016,80.7,NO
+Slovak Republic,Female,2015,80.2,NO
+Slovak Republic,Total,2015,76.7,NO
+Slovak Republic,Male,2023,74.7,NO
+Slovak Republic,Male,2022,73.6,NO
+Slovak Republic,Male,2021,71.2,NO
+Slovak Republic,Male,2020,73.5,NO
+Slovak Republic,Male,2019,74.3,NO
+Slovak Republic,Male,2018,73.9,NO
+Slovak Republic,Male,2017,73.8,NO
+Slovak Republic,Male,2016,73.8,NO
+Slovak Republic,Male,2015,73.1,NO
+Slovak Republic,Female,2023,81.5,NO
+Slovak Republic,Female,2022,80.5,NO
+Slovak Republic,Female,2021,78.2,NO
+Slovak Republic,Female,2020,80.4,NO
+Slovak Republic,Total,2023,78.1,NO
+Slovak Republic,Total,2022,77,NO
+Slovak Republic,Total,2021,74.6,NO
+Slovak Republic,Total,2020,77,NO
+Slovenia,Total,2018,81.5,NO
+Slovenia,Total,2017,81.2,NO
+Slovenia,Total,2016,81.2,NO
+Slovenia,Female,2019,84.5,NO
+Slovenia,Female,2018,84.4,NO
+Slovenia,Female,2017,84,NO
+Slovenia,Female,2016,84.3,NO
+Slovenia,Female,2015,83.9,NO
+Slovenia,Total,2015,80.9,NO
+Slovenia,Male,2023,79.1,NO
+Slovenia,Male,2022,78.6,NO
+Slovenia,Male,2021,77.7,NO
+Slovenia,Male,2020,77.8,NO
+Slovenia,Male,2019,78.7,NO
+Slovenia,Male,2018,78.5,NO
+Slovenia,Male,2017,78.2,NO
+Slovenia,Male,2016,78.2,NO
+Slovenia,Male,2015,77.8,NO
+Slovenia,Female,2023,85,NO
+Slovenia,Female,2022,84.1,NO
+Slovenia,Female,2021,83.8,NO
+Slovenia,Female,2020,83.4,NO
+Slovenia,Total,2023,82,NO
+Slovenia,Total,2022,81.3,NO
+Slovenia,Total,2021,80.7,NO
+Slovenia,Total,2020,80.6,NO
+Spain,Female,2018,86.3,NO
+Spain,Female,2017,86.1,NO
+Spain,Female,2016,86.3,NO
+Spain,Male,2019,81.1,NO
+Spain,Male,2018,80.7,NO
+Spain,Male,2017,80.6,NO
+Spain,Male,2016,80.5,NO
+Spain,Male,2015,80.1,NO
+Spain,Female,2015,85.7,NO
+Spain,Total,2023,84,NO
+Spain,Total,2022,83.2,NO
+Spain,Total,2021,83.3,NO
+Spain,Total,2020,82.4,NO
+Spain,Total,2019,84,NO
+Spain,Total,2018,83.5,NO
+Spain,Total,2017,83.4,NO
+Spain,Total,2016,83.5,NO
+Spain,Total,2015,83,NO
+Spain,Male,2023,81.2,NO
+Spain,Male,2022,80.5,NO
+Spain,Male,2021,80.4,NO
+Spain,Male,2020,79.6,NO
+Spain,Female,2023,86.7,NO
+Spain,Female,2022,85.9,NO
+Spain,Female,2021,86.2,NO
+Spain,Female,2020,85.2,NO
+Sweden,Female,2018,84.3,NO
+Sweden,Female,2017,84.1,NO
+Sweden,Female,2016,84.1,NO
+Sweden,Male,2019,81.5,NO
+Sweden,Male,2018,80.9,NO
+Sweden,Male,2017,80.8,NO
+Sweden,Male,2016,80.6,NO
+Sweden,Male,2015,80.4,NO
+Sweden,Female,2015,84.1,NO
+Sweden,Total,2023,83.4,NO
+Sweden,Total,2022,83.1,NO
+Sweden,Total,2021,83.1,NO
+Sweden,Total,2020,82.4,NO
+Sweden,Total,2019,83.2,NO
+Sweden,Total,2018,82.6,NO
+Sweden,Total,2017,82.5,NO
+Sweden,Total,2016,82.4,NO
+Sweden,Total,2015,82.2,NO
+Sweden,Male,2023,81.7,NO
+Sweden,Male,2022,81.4,NO
+Sweden,Male,2021,81.3,NO
+Sweden,Male,2020,80.6,NO
+Sweden,Female,2023,85,NO
+Sweden,Female,2022,84.8,NO
+Sweden,Female,2021,84.9,NO
+Sweden,Female,2020,84.2,NO
+Switzerland,Male,2018,81.9,NO
+Switzerland,Male,2017,81.6,NO
+Switzerland,Male,2016,81.7,NO
+Switzerland,Total,2019,84,NO
+Switzerland,Total,2018,83.8,NO
+Switzerland,Total,2017,83.7,NO
+Switzerland,Total,2016,83.7,NO
+Switzerland,Total,2015,83,NO
+Switzerland,Male,2015,80.8,NO
+Switzerland,Female,2023,85.9,NO
+Switzerland,Female,2022,85.5,NO
+Switzerland,Female,2021,85.8,NO
+Switzerland,Female,2020,85.1,NO
+Switzerland,Female,2019,85.8,NO
+Switzerland,Female,2018,85.7,NO
+Switzerland,Female,2017,85.6,NO
+Switzerland,Female,2016,85.6,NO
+Switzerland,Female,2015,85.1,NO
+Switzerland,Total,2023,84.2,NO
+Switzerland,Total,2022,83.7,NO
+Switzerland,Total,2021,83.9,NO
+Switzerland,Total,2020,83.1,NO
+Switzerland,Male,2023,82.3,NO
+Switzerland,Male,2022,81.8,NO
+Switzerland,Male,2021,81.8,NO
+Switzerland,Male,2020,81,NO
+Türkiye,Male,2020,75,NO
+Türkiye,Male,2019,75.9,NO
+Türkiye,Male,2018,75.6,NO
+Türkiye,Female,2019,81.3,NO
+Türkiye,Female,2018,81,NO
+Türkiye,Female,2017,80.8,NO
+Türkiye,Female,2016,80.7,NO
+Türkiye,Female,2015,80.7,NO
+Türkiye,Male,2017,75.3,NO
+Türkiye,Male,2016,75.3,NO
+Türkiye,Male,2015,75.3,NO
+Türkiye,Total,2022,77.3,NO
+Türkiye,Total,2021,77.5,NO
+Türkiye,Total,2020,77.7,NO
+Türkiye,Total,2019,78.6,NO
+Türkiye,Total,2018,78.3,NO
+Türkiye,Total,2017,78.1,NO
+Türkiye,Total,2016,78,NO
+Türkiye,Total,2015,78,NO
+Türkiye,Female,2022,80,NO
+Türkiye,Female,2021,80.3,NO
+Türkiye,Female,2020,80.5,NO
+Türkiye,Male,2022,74.7,NO
+United Kingdom,Total,2020,80.3,NO
+United Kingdom,Total,2019,81.3,NO
+United Kingdom,Total,2018,81,NO
+United Kingdom,Male,2019,79.5,NO
+United Kingdom,Male,2018,79.2,NO
+United Kingdom,Male,2017,79.2,NO
+United Kingdom,Male,2016,79.2,NO
+United Kingdom,Male,2015,79,NO
+United Kingdom,Total,2017,81.1,NO
+United Kingdom,Total,2016,81,NO
+United Kingdom,Total,2015,80.8,NO
+United Kingdom,Female,2022,82.9,NO
+United Kingdom,Female,2021,82.5,NO
+United Kingdom,Female,2020,82.3,NO
+United Kingdom,Female,2019,83.2,NO
+United Kingdom,Female,2018,82.9,NO
+United Kingdom,Female,2017,82.9,NO
+United Kingdom,Female,2016,82.8,NO
+United Kingdom,Female,2015,82.7,NO
+United Kingdom,Male,2022,79,NO
+United Kingdom,Male,2021,78.5,NO
+United Kingdom,Male,2020,78.3,NO
+United Kingdom,Total,2022,80.9,NO
+United States,Female,2020,79.9,NO
+United States,Male,2021,73.5,NO
+United States,Male,2020,74.2,NO
+United States,Female,2019,81.4,NO
+United States,Female,2018,81.2,NO
+United States,Female,2017,81.1,NO
+United States,Female,2016,81.1,NO
+United States,Female,2015,81.1,NO
+United States,Male,2019,76.3,NO
+United States,Male,2018,76.2,NO
+United States,Male,2017,76.1,NO
+United States,Male,2016,76.2,NO
+United States,Male,2015,76.3,NO
+United States,Total,2021,76.4,NO
+United States,Total,2020,77,NO
+United States,Total,2019,78.8,NO
+United States,Total,2018,78.7,NO
+United States,Total,2017,78.6,NO
+United States,Total,2016,78.7,NO
+United States,Total,2015,78.7,NO
+Argentina,Male,2020,72.5,SI
+Argentina,Male,2019,73.9,SI
+Argentina,Male,2018,73.6,SI
+Argentina,Female,2019,80.7,SI
+Argentina,Female,2018,80.3,SI
+Argentina,Female,2017,80.1,SI
+Argentina,Female,2016,79.7,SI
+Argentina,Female,2015,80.2,SI
+Argentina,Male,2017,73.5,SI
+Argentina,Male,2016,72.9,SI
+Argentina,Male,2015,73.3,SI
+Argentina,Total,2022,76.1,SI
+Argentina,Total,2021,75.4,SI
+Argentina,Total,2020,75.9,SI
+Argentina,Total,2019,77.3,SI
+Argentina,Total,2018,77,SI
+Argentina,Total,2017,76.8,SI
+Argentina,Total,2016,76.3,SI
+Argentina,Total,2015,76.8,SI
+Argentina,Female,2022,79.3,SI
+Argentina,Female,2021,78.6,SI
+Argentina,Female,2020,79.3,SI
+Argentina,Male,2022,72.9,SI
+Brazil,Female,2020,77.4,SI
+Brazil,Female,2019,78.5,SI
+Brazil,Female,2018,78.3,SI
+Brazil,Male,2019,72.2,SI
+Brazil,Male,2018,72,SI
+Brazil,Male,2017,71.6,SI
+Brazil,Male,2016,71.1,SI
+Brazil,Male,2015,71.1,SI
+Brazil,Female,2017,78,SI
+Brazil,Female,2016,77.8,SI
+Brazil,Female,2015,77.6,SI
+Brazil,Total,2022,73.4,SI
+Brazil,Total,2021,72.8,SI
+Brazil,Total,2020,74,SI
+Brazil,Total,2019,75.3,SI
+Brazil,Total,2018,75.1,SI
+Brazil,Total,2017,74.8,SI
+Brazil,Total,2016,74.4,SI
+Brazil,Total,2015,74.3,SI
+Brazil,Male,2022,70.3,SI
+Brazil,Male,2021,69.6,SI
+Brazil,Male,2020,70.7,SI
+Brazil,Female,2022,76.6,SI
+Bulgaria,Female,2018,78.6,SI
+Bulgaria,Female,2017,78.4,SI
+Bulgaria,Female,2016,78.5,SI
+Bulgaria,Male,2019,71.6,SI
+Bulgaria,Male,2018,71.5,SI
+Bulgaria,Male,2017,71.4,SI
+Bulgaria,Male,2016,71.3,SI
+Bulgaria,Male,2015,71.2,SI
+Bulgaria,Female,2015,78.2,SI
+Bulgaria,Total,2023,75.8,SI
+Bulgaria,Total,2022,74.2,SI
+Bulgaria,Total,2021,71.4,SI
+Bulgaria,Total,2020,73.6,SI
+Bulgaria,Total,2019,75.1,SI
+Bulgaria,Total,2018,75,SI
+Bulgaria,Total,2017,74.8,SI
+Bulgaria,Total,2016,74.9,SI
+Bulgaria,Total,2015,74.7,SI
+Bulgaria,Male,2023,72,SI
+Bulgaria,Male,2022,70.6,SI
+Bulgaria,Male,2021,68,SI
+Bulgaria,Male,2020,70,SI
+Bulgaria,Female,2023,79.6,SI
+Bulgaria,Female,2022,77.9,SI
+Bulgaria,Female,2021,75.1,SI
+Bulgaria,Female,2020,77.5,SI
+China (People’s Republic of),Total,2020,78.1,SI
+China (People’s Republic of),Total,2019,78,SI
+China (People’s Republic of),Total,2018,77.7,SI
+China (People’s Republic of),Male,2019,75.3,SI
+China (People’s Republic of),Male,2018,75,SI
+China (People’s Republic of),Male,2017,74.4,SI
+China (People’s Republic of),Male,2016,74.6,SI
+China (People’s Republic of),Male,2015,74.4,SI
+China (People’s Republic of),Total,2017,77.2,SI
+China (People’s Republic of),Total,2016,77.2,SI
+China (People’s Republic of),Total,2015,77,SI
+China (People’s Republic of),Female,2022,81.3,SI
+China (People’s Republic of),Female,2021,81.2,SI
+China (People’s Republic of),Female,2020,81.1,SI
+China (People’s Republic of),Female,2019,80.8,SI
+China (People’s Republic of),Female,2018,80.6,SI
+China (People’s Republic of),Female,2017,80.3,SI
+China (People’s Republic of),Female,2016,80.1,SI
+China (People’s Republic of),Female,2015,79.8,SI
+China (People’s Republic of),Male,2022,76,SI
+China (People’s Republic of),Male,2021,75.5,SI
+China (People’s Republic of),Male,2020,75.3,SI
+China (People’s Republic of),Total,2022,78.6,SI
+Croatia,Female,2018,81.5,SI
+Croatia,Female,2017,81,SI
+Croatia,Female,2016,81.3,SI
+Croatia,Male,2019,75.5,SI
+Croatia,Male,2018,74.9,SI
+Croatia,Male,2017,74.9,SI
+Croatia,Male,2016,75,SI
+Croatia,Male,2015,74.4,SI
+Croatia,Female,2015,80.5,SI
+Croatia,Total,2023,78.6,SI
+Croatia,Total,2022,77.7,SI
+Croatia,Total,2021,76.6,SI
+Croatia,Total,2020,77.6,SI
+Croatia,Total,2019,78.6,SI
+Croatia,Total,2018,78.2,SI
+Croatia,Total,2017,78,SI
+Croatia,Total,2016,78.2,SI
+Croatia,Total,2015,77.5,SI
+Croatia,Male,2023,75.4,SI
+Croatia,Male,2022,74.6,SI
+Croatia,Male,2021,73.5,SI
+Croatia,Male,2020,74.5,SI
+Croatia,Female,2023,81.8,SI
+Croatia,Female,2022,80.8,SI
+Croatia,Female,2021,79.7,SI
+Croatia,Female,2020,80.7,SI
+India,Male,2020,68.6,SI
+India,Male,2019,69.5,SI
+India,Male,2018,69.4,SI
+India,Female,2019,72.4,SI
+India,Female,2018,72.1,SI
+India,Female,2017,71.9,SI
+India,Female,2016,71.5,SI
+India,Female,2015,71.1,SI
+India,Male,2017,69.2,SI
+India,Male,2016,68.8,SI
+India,Male,2015,68.3,SI
+India,Total,2022,67.7,SI
+India,Total,2021,67.2,SI
+India,Total,2020,70.2,SI
+India,Total,2019,70.9,SI
+India,Total,2018,70.7,SI
+India,Total,2017,70.5,SI
+India,Total,2016,70.1,SI
+India,Total,2015,69.6,SI
+India,Female,2022,69.4,SI
+India,Female,2021,68.9,SI
+India,Female,2020,71.8,SI
+India,Male,2022,66.3,SI
+Indonesia,Female,2020,71,SI
+Indonesia,Female,2019,72.6,SI
+Indonesia,Female,2018,72.4,SI
+Indonesia,Male,2019,68.5,SI
+Indonesia,Male,2018,68.3,SI
+Indonesia,Male,2017,68,SI
+Indonesia,Male,2016,67.9,SI
+Indonesia,Male,2015,67.8,SI
+Indonesia,Female,2017,71.9,SI
+Indonesia,Female,2016,71.8,SI
+Indonesia,Female,2015,71.6,SI
+Indonesia,Total,2022,68.3,SI
+Indonesia,Total,2021,67.6,SI
+Indonesia,Total,2020,68.8,SI
+Indonesia,Total,2019,70.5,SI
+Indonesia,Total,2018,70.3,SI
+Indonesia,Total,2017,69.9,SI
+Indonesia,Total,2016,69.8,SI
+Indonesia,Total,2015,69.7,SI
+Indonesia,Male,2022,66.2,SI
+Indonesia,Male,2021,65.5,SI
+Indonesia,Male,2020,66.7,SI
+Indonesia,Female,2022,70.4,SI
+Peru,Female,2020,76.8,SI
+Peru,Female,2019,78.5,SI
+Peru,Female,2018,78.3,SI
+Peru,Total,2019,76.2,SI
+Peru,Total,2018,76,SI
+Peru,Total,2017,75.9,SI
+Peru,Total,2016,75.8,SI
+Peru,Total,2015,75.6,SI
+Peru,Female,2017,78.1,SI
+Peru,Female,2016,78,SI
+Peru,Female,2015,77.7,SI
+Peru,Male,2022,71.3,SI
+Peru,Male,2021,70.1,SI
+Peru,Male,2020,70.8,SI
+Peru,Male,2019,73.9,SI
+Peru,Male,2018,73.8,SI
+Peru,Male,2017,73.7,SI
+Peru,Male,2016,73.7,SI
+Peru,Male,2015,73.6,SI
+Peru,Total,2022,73.4,SI
+Peru,Total,2021,72.4,SI
+Peru,Total,2020,73.7,SI
+Peru,Female,2022,75.5,SI
+Romania,Total,2018,75.3,SI
+Romania,Total,2017,75.2,SI
+Romania,Total,2016,75.2,SI
+Romania,Female,2019,79.5,SI
+Romania,Female,2018,79.2,SI
+Romania,Female,2017,79,SI
+Romania,Female,2016,79,SI
+Romania,Female,2015,78.6,SI
+Romania,Total,2015,74.9,SI
+Romania,Male,2023,72.9,SI
+Romania,Male,2022,71.3,SI
+Romania,Male,2021,69.2,SI
+Romania,Male,2020,70.4,SI
+Romania,Male,2019,71.9,SI
+Romania,Male,2018,71.7,SI
+Romania,Male,2017,71.6,SI
+Romania,Male,2016,71.6,SI
+Romania,Male,2015,71.4,SI
+Romania,Female,2023,80.5,SI
+Romania,Female,2022,79.2,SI
+Romania,Female,2021,76.6,SI
+Romania,Female,2020,78.3,SI
+Romania,Total,2023,76.6,SI
+Romania,Total,2022,75.1,SI
+Romania,Total,2021,72.8,SI
+Romania,Total,2020,74.2,SI
+Russia,Male,2017,67.5,SI
+Russia,Male,2016,66.5,SI
+Russia,Male,2015,65.9,SI
+Russia,Female,2019,78.2,SI
+Russia,Female,2018,77.8,SI
+Russia,Female,2017,77.6,SI
+Russia,Female,2016,77.1,SI
+Russia,Female,2015,76.7,SI
+Russia,Total,2019,73.2,SI
+Russia,Total,2018,72.8,SI
+Russia,Total,2017,72.6,SI
+Russia,Total,2016,71.8,SI
+Russia,Total,2015,71.3,SI
+Russia,Male,2019,68.2,SI
+South Africa,Female,2020,68,SI
+South Africa,Female,2019,69.1,SI
+South Africa,Female,2018,68.7,SI
+South Africa,Total,2019,66.2,SI
+South Africa,Total,2018,65.7,SI
+South Africa,Total,2017,65.4,SI
+South Africa,Total,2016,64.7,SI
+South Africa,Total,2015,64,SI
+South Africa,Female,2017,68.4,SI
+South Africa,Female,2016,67.8,SI
+South Africa,Female,2015,66.8,SI
+South Africa,Male,2022,58.6,SI
+South Africa,Male,2021,59.5,SI
+South Africa,Male,2020,62.2,SI
+South Africa,Male,2019,62.8,SI
+South Africa,Male,2018,62.2,SI
+South Africa,Male,2017,62,SI
+South Africa,Male,2016,61.3,SI
+South Africa,Male,2015,60.7,SI
+South Africa,Total,2022,61.5,SI
+South Africa,Total,2021,62.3,SI
+South Africa,Total,2020,65.3,SI
+South Africa,Female,2022,64.2,SI
+Australia,Female,2021,85.4,NO
+Austria,Male,2019,79.7,NO
+Belgium,Female,2019,84.3,NO
+Canada,Total,2021,81.6,NO
+Chile,Female,2019,83.4,NO
+Colombia,Total,2021,76.8,NO
+Costa Rica,Female,2019,83,NO
+Czechia,Female,2019,82.2,NO
+Denmark,Female,2019,83.5,NO
+Estonia,Male,2019,74.5,NO
+Finland,Male,2019,79.3,NO
+France,Male,2019,79.9,NO
+Germany,Male,2021,78.4,NO
+Greece,Female,2019,84.2,NO
+Hungary,Male,2019,73.1,NO
+Iceland,Male,2019,81.7,NO
+Ireland,Female,2021,84.3,NO
+Israel,Male,2021,80.5,NO
+Italy,Male,2019,81.4,NO
+Japan,Total,2021,84.5,NO
+Korea,Female,2021,86.6,NO
+Latvia,Female,2019,80.1,NO
+Lithuania,Male,2019,71.6,NO
+Luxembourg,Male,2019,80.2,NO
+Mexico,Male,2019,71.8,NO
+Netherlands,Male,2019,80.6,NO
+New Zealand,Total,2021,82.3,NO
+Norway,Total,2021,83.2,NO
+Poland,Female,2019,81.9,NO
+Portugal,Male,2019,78.7,NO
+Slovak Republic,Total,2019,77.8,NO
+Slovenia,Total,2019,81.6,NO
+Spain,Female,2019,86.7,NO
+Sweden,Female,2019,84.8,NO
+Switzerland,Male,2019,82.1,NO
+Türkiye,Male,2021,74.8,NO
+United Kingdom,Total,2021,80.5,NO
+United States,Female,2021,79.3,NO
+Argentina,Male,2021,72.2,SI
+Brazil,Female,2021,76,SI
+Bulgaria,Female,2019,78.8,SI
+China (People’s Republic of),Total,2021,78.2,SI
+Croatia,Female,2019,81.6,SI
+India,Male,2021,65.8,SI
+Indonesia,Female,2021,69.7,SI
+Peru,Female,2021,74.7,SI
+Romania,Total,2019,75.6,SI
+Russia,Male,2018,67.8,SI
+South Africa,Female,2021,65,SI
